@@ -1,0 +1,218 @@
+body
+{
+    width: 1000px;
+    height: 1000px;
+}
+
+nav
+{
+    height: 100px;
+    width: 1000px;
+    background: rgb(94, 240, 94);
+    border-top: 5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+header
+{
+    height: 300px;
+    width: 1000px;
+    background: rgb(68, 68, 208);
+    border-top: 5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+main
+{
+    height: 500px;
+    width: 1000px;
+    background: rgb(181, 197, 94);
+    border-top: 5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+footer
+{
+    height: 50px;
+    width: 1000px;
+    background: rgb(255, 217, 0);
+    border-top: 5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+.banner{
+    background:white;
+    width: 800px;
+    height: 290px;
+    float: left;
+    text-align: center;
+    justify-content: center;
+    margin: 5px 5px 5px 5px ;
+    align-items: center;
+    display: flex;
+}
+
+.logo{
+    background:white;
+    margin: 5px 5px 5px 5px;
+    width: 180px;
+    height: 90px;
+    float: left;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}  
+
+.login{
+    background:white;
+    margin: 5px 5px 5px 5px;
+    width: 180px;
+    height: 90px;
+    float: left;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}  
+.form{
+    background:white;
+    margin: 5px 5px 5px 5px;
+    width: 180px;
+    height: 90px;
+    float: left;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.Aside1{
+    background:white;
+    margin: 6px 6px 6px 6px;
+    width: 200px;
+    height: 490px;
+    float: left;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.article
+{ 
+    position: relative;
+    background:white;
+    margin: 6px 6px 6px 6px;
+    width: 500px;
+    height: 490px;
+    float: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    left: 40px ;
+}
+
+
+.Aside2
+{
+    position: relative;
+    background:white;
+    margin: 6px 6px 6px 6px;
+    width: 200px;
+    height: 490px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    top: -495px;
+    left: 790px;
+}
+
+.box1
+{
+    background:white;
+    margin: 6px 6px 6px 6px;
+    width: 175px;
+    height: 85px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+
+.box2
+{
+    position: relative;
+    background:white;
+    margin: 6px 6px 6px 6px;
+    width: 175px;
+    height: 85px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    left: 200px;
+    top: -90px;
+}
+
+.box3
+{
+    position: relative;
+    background:white;
+    margin: 6px 6px 6px 6px;
+    width: 175px;
+    height: 85px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    left: 400px;
+    top: -180px;
+}
+
+.box4
+{
+    position: relative;
+    background:white;
+    margin: 6px 6px 6px 6px;
+    width: 175px;
+    height: 85px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    left: 600px;
+    top: -270px;
+}
+
+
+.box5
+{
+    position: relative;
+    background:white;
+    margin: 6px 6px 6px 6px;
+    width: 175px;
+    height: 85px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    left: 800px;
+    top: -360px;
+}
+
+li a
+{
+    background: rgb(255, 255, 255);
+}
+
+
